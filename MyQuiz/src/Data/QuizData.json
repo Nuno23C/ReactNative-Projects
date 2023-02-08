@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "Question": "Qual é o maior país do mundo?",
+        "Options": ["China", "Rússia", "Brasil", "Portugal"],
+        "CorrectAnswer": "Rússia"
+    },
+    {
+        "id": 1,
+        "Question": "Qual oceano separa a América da Europa?",
+        "Options": ["Atlântico", "Índico", "Pacífico", "Ártico"],
+        "CorrectAnswer": "Atlântico"
+    },
+    {
+        "id": 2,
+        "Question": "Qual é o planeta mais próximo do sol?",
+        "Options": ["Terra", "Júpiter", "Mercúrio", "Vénus"],
+        "CorrectAnswer": "Mercúrio"
+    },
+    {
+        "id": 3,
+        "Question": "Qual é o ponto turístico mais famoso de Paris?",
+        "Options": ["Torre Eiffel", "Big Ben", "Arco do Triunfo", "Estátua da Liberdade"],
+        "CorrectAnswer": "Torre Eiffel"
+    },
+    {
+        "id": 4,
+        "Question": "Quem pintou o quadro Mona Lisa?",
+        "Options": ["Vincent van Gogh", "Leonardo Da Vinci", "Pablo Picasso", "Miguel Ângelo"],
+        "CorrectAnswer": "Leonardo Da Vinci"
+    },
+    {
+        "id": 5,
+        "Question": "Qual é o país mais populoso do mundo?",
+        "Options": ["Estados Unidos", "Índia", "Rússia", "China"],
+        "CorrectAnswer": "China"
+    },
+    {
+        "id": 6,
+        "Question": "Qual é a capital da Espanha?",
+        "Options": ["Barcelona", "Madrid", "Sevilha", "Granada"],
+        "CorrectAnswer": "Madrid"
+    },
+    {
+        "id": 7,
+        "Question": "Qual é o maior rio português?",
+        "Options": ["Rio Tejo", "Rio Douro", "Rio Guadiana", "Rio Mondego"],
+        "CorrectAnswer": "Rio Tejo"
+    },
+    {
+        "id": 8,
+        "Question": "Em que ano o homem pisou na lua pela primeira vez?",
+        "Options": ["1966", "1973", "1969", "1979"],
+        "CorrectAnswer": "1969"
+    }
+]
+
